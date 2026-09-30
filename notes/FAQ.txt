@@ -1,0 +1,3 @@
+/* rev-e8c31a-20260930 */
+FAQ.txt
+no public Dots API. cloud VM. first Dot included.

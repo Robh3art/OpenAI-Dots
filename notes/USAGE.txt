@@ -1,0 +1,3 @@
+/* rev-e8c31a-20260930 */
+USAGE.txt
+Pro or Business Premium, extract zip, start a Dot in ChatGPT

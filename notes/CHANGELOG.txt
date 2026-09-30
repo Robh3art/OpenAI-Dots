@@ -1,0 +1,3 @@
+/* rev-e8c31a-20260930 */
+CHANGELOG.txt
+2026-09-29 DevDay: Astra agents, 4000 apps, cloud VM
